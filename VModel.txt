@@ -1,0 +1,13 @@
+V-Shapped Methodologies
+
+Advantages:
+1. Simple and easy to use.
+2. Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
+3. Proactive defect tracking – that is defects are found at early stage.
+4. Avoids the downward flow of the defects.
+5. Works well for small projects where requirements are easily understood.
+
+Disadvantages:
+1. Very rigid and least flexible.
+2. Software is developed during the implementation phase, so no early prototypes of the software are produced.
+3. If any changes happen in midway, then the test documents along with requirement documents has to be updated.
