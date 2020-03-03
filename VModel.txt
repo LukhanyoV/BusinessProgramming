@@ -11,3 +11,5 @@ Disadvantages:
 1. Very rigid and least flexible.
 2. Software is developed during the implementation phase, so no early prototypes of the software are produced.
 3. If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+4. V model doesn't provide a clear path for problems found during testing phases.  
+5. if any changes happen in midway, then the test documents along with requirement documents has to be updated.
