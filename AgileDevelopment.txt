@@ -1,0 +1,89 @@
+QUESTION:
+
+What are the different techniques implemented in agile development? 
+
+Write a comprehensive discussion highlighting the following:
+  #1: Key features of each technique
+  #2 Key people
+  #3: Advantages and disadvantages of each technique
+  #4: When to implement each over the others
+  
+  
+ SOLUTION
+ 
+#1: Key features of each technique: 
+  # Agile Scrum Methodology -:
+  1. Superior Visibility:
+  Agile and Scrum improvement strategy are well- known for effectively including users/clients all through the life of the product’s advancement handle. This leads to way better perceivability for key partners included within the venture to guarantee that everyone’s desires are overseen effectively. 
+  2. Tall Transparency:
+  This is one of the most characteristics of Spry and Scrum approach. It permits different partners to contribute and be totally included all through the extend. This kind of straightforwardness is accessible at each and each step of the venture cycle be it arranging, surveys or prioritizing highlights.
+ 
+  # Extreme Programming (XP) -:
+  1. Simplicity:
+  Simplicity implies “what is the only thing that will work?” The reason of this is often to dodge squander and do as it were completely vital things such as keep the plan of the framework as straightforward as conceivable so that it is simpler to preserve, bolster, and change. Simplicity also implies address as it were the prerequisites that you simply know around; don’t attempt to anticipate long term.
+  2. Feedback:
+  Through steady criticism around their past endeavors, groups can recognize ranges for change and change their hones. Criticism moreover underpins basic plan. Your group builds something, assembles input on your plan and usage, and after that alter your item going forward.
+
+  # Feature Driven Development (FDD) -:
+
+
+#2: Key people:
+  #Agile Scrum Methodology -:
+  * A scrum team needs three specific roles: product owner, scrum master, and the development team.
+  
+  #Extreme Programming (XP) -:
+  
+  #Feature Driven Development (FDD) -:
+  
+#3: Advantages and disadvantages of each technique:
+  #Agile Scrum Methodology -:
+  ADVANTAGES:
+    * Flexibility and Adaptability 
+    * Creativity and Innovation 
+    * Time-to-Market 
+    * Lower Costs and Improved Quality 
+    * Improved Customer Satisfaction 
+  DISADVANTAGES:
+    * Training and Skill Required- Requires experienced and committed members 
+    * Organizational Transformation-may require changes to organisation to make it work 
+    * Scalability 
+    * Integration with Project/Program Management 
+
+  # Extreme Programming (XP) -:
+  ADVANTAGES:
+    * Fast-Last only for several months 
+    * Open communication helps every team member to be up-to-date always 
+    * Reduces Costs-Feedback loop is reduced. 
+    * Teamwork 
+   DISADVANTAGES:
+    * Location. XP projects are difficult to implement when the customer is away from the developmental team. 
+    * Lack of documentation. The constant changes cannot be documented properly. 
+    * Stress. There is a lot of pressure working with tight deadlines. 
+    * Code overcomes design. The focus of XP is definitely the code rather than the 
+    design. 
+    
+  # Feature Driven Development -:
+    ADVANTAGES:
+      * Adaptive to changing environment (Flexible) 
+      * FDD ensures customer satisfaction through active involvement of users. 
+      * Least documentation 
+      * Reduces risks of development since reviews are done regularly 
+     DISADVANTAGES:
+      * So if the customer representative is not clear about the product features, the development process will go out of the track 
+      * Lack of documentation can be a disadvantage if some new members join in the middle of the launch. 
+      * Time consuming and wastage of resources because of constant change of requirements 
+      * More helpful for management than developer than developers who have to cope with ever changing requirements 
+
+
+#4: When to implement each over the other:
+  #Agile Scrum Methodology -:
+  To implement a new feature the developers need to lose only the work of a few days, or even only hours, to roll back and implement it.
+  
+  #Extreme Programming (XP) -:
+  When there is a need to adapt to fast-changing requirements.
+  
+  #Feature Driven Development (FDD) -:  
+  If you work at a large company and will be tackling large, complex processes, using a feature-driven agile approach may be right for you. FDD is designed to grow as your company and your project grows, and it works well if your product requires long-term, ongoing development.
+
+  
+  
